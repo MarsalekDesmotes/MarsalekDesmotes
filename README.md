@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marsalekdesmotes" alt="marsalekdesmotes" /></a> </p>
 
-- 🔭 I’m currently working on **Joinco Games**
 
 - 🌱 I’m currently learning **Reverse Engineering**
 
@@ -33,5 +32,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marsalekdesmotes&show_icons=true&locale=en" alt="marsalekdesmotes" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marsalekdesmotes&" alt="marsalekdesmotes" /></p>
+
 
